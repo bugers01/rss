@@ -22,12 +22,6 @@
 			<showrss:showname>tvN 인생술집.E97.181115.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>[M.net] IZ ONE CHU.E04.181115.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:e8f2dec481304d27fba248b8551b57355da19027</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>[M.net] IZ ONE CHU.E04.181115.720p-NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>[Mnet] 아이즈원 츄.E04.END.181115.1080p.h265.AAC-cherry</title>
 			<link>magnet:?xt=urn:btih:6758cd4e3f783b0a4162912ee59aa8b61eb38d49</link>
 			<showrss:showid></showrss:showid>
@@ -52,16 +46,16 @@
 			<showrss:showname>[Olive] 밥블레스유.E20.181115.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>[M.net] M COUNTDOWN.E596.181115.1080p-NEXT</title>
-			<link>magnet:?xt=urn:btih:9b9d9d9590700c01c31cb1bc60b10da4f2b59845</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>[M.net] M COUNTDOWN.E596.181115.1080p-NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>[M.net] M COUNTDOWN.E596.181115.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:4e94ea1a4833d906e618f50fdc20f04878f52f1e</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>[M.net] M COUNTDOWN.E596.181115.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>M COUNTDOWN (596회).18-11-15(목) M-net 직릴</title>
+			<link>magnet:?xt=urn:btih:c41f0ffe23faee859a87664f2602d12429d3b4c9</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>M COUNTDOWN (596회).18-11-15(목) M-net 직릴</showrss:showname>
 		</item>
 		<item>
 			<title>[tvN] 유 퀴즈 온 더 블럭.E12.181114.1080p-NEXT</title>
@@ -188,6 +182,12 @@
 			<link>magnet:?xt=urn:btih:4d58113dcbe3e4a3833bde8ed2ac42969a2a79c7</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>[MBC every1] 비디오 스타.E118.181113.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>[tvN] 프리한19.E131.181113.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:35ac2e7948978dfadbbe4c614961d1504d3f76be</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>[tvN] 프리한19.E131.181113.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
