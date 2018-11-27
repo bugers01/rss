@@ -4,6 +4,12 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title> 한국기행.E2326.181127.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:54018D098E0A01D82D6F990C8487581C4DC43280</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> 한국기행.E2326.181127.720p-NEXT</showrss:showname>
+		</item>
+		<item>
 			<title> 2TV 생생정보.E898.181127.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:BD59198010FFAF270B4D574DF18D778E13B7C3FE</link>
 			<showrss:showid></showrss:showid>
@@ -22,10 +28,10 @@
 			<showrss:showname> MBC 뉴스데스크.181126.360p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title> 세계테마기행.E2201.181126.720p-NEXT</title>
+			<title>세계테마기행.E2201.181126.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:964389B4F4AABB66FF15027AB30D72AFEA7F42BF</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname> 세계테마기행.E2201.181126.720p-NEXT</showrss:showname>
+			<showrss:showname>세계테마기행.E2201.181126.720p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>2TV 생생정보.E897.181126.720p-NEXT</title>
@@ -86,12 +92,6 @@
 			<link>magnet:?xt=urn:btih:F91E5BF666E0056B3E476AFDD389F165B8AFBCD1</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>일요특선 다큐멘터리.E158.181125.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>일요진단.E370.181125.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:45FC143A91347F3FF2B31E038B6485206A47F1E2</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>일요진단.E370.181125.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
