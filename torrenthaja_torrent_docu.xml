@@ -4,6 +4,18 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title> MBC 뉴스데스크.181203.360p-NEXT</title>
+			<link>magnet:?xt=urn:btih:020D46372A01B7510196F4C9C4297FD91CB3CF62</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> MBC 뉴스데스크.181203.360p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title> JTBC 뉴스룸.181203.360p-NEXT</title>
+			<link>magnet:?xt=urn:btih:20CCF3C53BFA4DE4DCB001B73782BCEA2180A186</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> JTBC 뉴스룸.181203.360p-NEXT</showrss:showname>
+		</item>
+		<item>
 			<title> 역사 다시보기 천일야사.E102.181203.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:A884802D84B3D0D2B34A2F5EC4A0F0A0CA7C8F2A</link>
 			<showrss:showid></showrss:showid>
@@ -80,18 +92,6 @@
 			<link>magnet:?xt=urn:btih:9506A0FA24D3B17AE1EB21B0C51C6EF9A1094FBA</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>맨 인 블랙박스.E161.181202.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>다큐 공감.E277.181202.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:A2645A047302618D92D83B58C8D801463D2274A2</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>다큐 공감.E277.181202.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>UFN 142 도스 산토스 vs 투이바사외 전경기 181202</title>
-			<link>magnet:?xt=urn:btih:A7E791984C5F514352B13C502E91D2E3FE818AA7</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>UFN 142 도스 산토스 vs 투이바사외 전경기 181202</showrss:showname>
 		</item>
 	</channel>
 </rss>
