@@ -28,18 +28,6 @@
 			<showrss:showname> KBS 스페셜.E142.181206.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title> KBS 스페셜.E142.181206.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:B5E9AFE570624C06043A1DA2D676F3E80B7A7D5A</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname> KBS 스페셜.E142.181206.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title> 서민 갑부.E207.181206.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:02E886C15373483C37690A32B15BBCDC85963A2D</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname> 서민 갑부.E207.181206.720p-NEXT</showrss:showname>
-		</item>
-		<item>
 			<title> 여행생활자 집시맨.E120.181206.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:122FEA120322BCF80D139E7437EA94455738F048</link>
 			<showrss:showid></showrss:showid>
@@ -92,6 +80,18 @@
 			<link>magnet:?xt=urn:btih:D9A28880BBDD0994B47C342664B10AABC25FECA1</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname> 2TV 생생정보.E905.181206.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title> 한국인의 밥상.E393.181206.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:36F2F6FFB46714947E21EDFF4FD410E674D185B9</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> 한국인의 밥상.E393.181206.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title> 질문 있는 특강쇼 - 빅뱅.E34.181206.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:2300460C51DFC8DA2411D687289D706F6E1568E2</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> 질문 있는 특강쇼 - 빅뱅.E34.181206.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
