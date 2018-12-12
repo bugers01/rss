@@ -39,17 +39,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname> 라디오스타.E595.181212.1080p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title> 한끼줍쇼.E109.181212.1080p-NEXT</title>
-			<link>magnet:?xt=urn:btih:7582C01839018CC6BB2F2238F222AB6514AD7AF0</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname> 한끼줍쇼.E109.181212.1080p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title> 국경없는 포차.E04.181212.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:CC82C793987EECC9C9E373341997A1330782059E</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname> 국경없는 포차.E04.181212.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
