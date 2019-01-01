@@ -33,11 +33,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname> 서울 메이트 2.E04.181231.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title> 서울 메이트 2.E04.181231.1080p-NEXT</title>
-			<link>magnet:?xt=urn:btih:B07E2B7136E08B633747BB773652C38D7C637E88</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname> 서울 메이트 2.E04.181231.1080p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
