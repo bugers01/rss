@@ -4,6 +4,18 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title>[OCN] 프리스트.E11.190105.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:95c1b2bf3fc2387087cb21e64446a1a901fae843</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>[OCN] 프리스트.E11.190105.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>[OCN] 프리스트.E11.190105.1080p-NEXT</title>
+			<link>magnet:?xt=urn:btih:fecef23d44dd72824d3a351cace6ee5ce22bf396</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>[OCN] 프리스트.E11.190105.1080p-NEXT</showrss:showname>
+		</item>
+		<item>
 			<title>[tvN] 알함브라 궁전의 추억.E11.190105.1080p-NEXT</title>
 			<link>magnet:?xt=urn:btih:53dc75f30f7c75a2eed134a3f7a9010392c5239c</link>
 			<showrss:showid></showrss:showid>
@@ -170,18 +182,6 @@
 			<link>magnet:?xt=urn:btih:19fb5ea38fa3d5059003cbea6a704a0494f22008</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>[M.net] M COUNTDOWN.E600.190103.1080p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>M COUNTDOWN 600회.19-01-03(목) M-net 직릴</title>
-			<link>magnet:?xt=urn:btih:b0d67af4f4d9d0202f41a1a9647c09ab5ea7d50a</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>M COUNTDOWN 600회.19-01-03(목) M-net 직릴</showrss:showname>
-		</item>
-		<item>
-			<title>[M.net] M COUNTDOWN.E600.190103.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:227ac7a89293b15d0faf9e0659b536930f54fc05</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>[M.net] M COUNTDOWN.E600.190103.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
