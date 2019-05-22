@@ -16,12 +16,6 @@
 			<showrss:showname> 인생다큐 마이웨이.E146.190522.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title> 나는 자연인이다 E349 190522 720p-NEXT mp4</title>
-			<link>magnet:?xt=urn:btih:1267194D0F5EBEBF451745FC5382ACA81AD7788E</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname> 나는 자연인이다 E349 190522 720p-NEXT mp4</showrss:showname>
-		</item>
-		<item>
 			<title> 나는 자연인이다.E349.190522.720p-NEXT.mp4</title>
 			<link>magnet:?xt=urn:btih:1267194D0F5EBEBF451745FC5382ACA81AD7788E</link>
 			<showrss:showid></showrss:showid>
@@ -92,6 +86,12 @@
 			<link>magnet:?xt=urn:btih:AE9BDDAF6674C46E7850995D610CF242401909EB</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>식객 허영만의 백반기행.E02.190521.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>EBS 다큐프라임.190521.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:9FB322C8D2F8308B63FEAF62E48B85A17CBEE8D0</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>EBS 다큐프라임.190521.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
