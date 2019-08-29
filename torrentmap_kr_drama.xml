@@ -171,17 +171,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>모두 다 쿵따리.E30.190826.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>인서울 E.04,190826 1080p</title>
-			<link>magnet:?xt=urn:btih:8927723aca8ef88b607d1ebe9d3d089da6af4c64</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>인서울 E.04,190826 1080p</showrss:showname>
-		</item>
-		<item>
-			<title>WATCHER왓쳐.E16.190825.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:dacec6a390daeb2128fce7d71e4bce9e90289371</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>WATCHER왓쳐.E16.190825.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
