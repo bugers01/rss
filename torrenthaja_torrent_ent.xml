@@ -4,10 +4,16 @@
 		<link></link>
 		<description></description>
 		<item>
-			<title> 섹션 TV 연예통신.E989.191212.720p-NEXT</title>
+			<title> 뮤직뱅크.E1008.191213.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:D0A037E3B93987051C30D72A053B2D224480452E</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> 뮤직뱅크.E1008.191213.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>섹션 TV 연예통신.E989.191212.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:673F7F8D6BE4F5DF8788E0393529DA963792AF63</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname> 섹션 TV 연예통신.E989.191212.720p-NEXT</showrss:showname>
+			<showrss:showname>섹션 TV 연예통신.E989.191212.720p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>보이스 퀸.E04.191212.1부-2부.WEB-DL.x264.AAC.720p-Deresisi</title>
@@ -86,12 +92,6 @@
 			<link>magnet:?xt=urn:btih:C144CF1080BB76BC9D6A1ABBCB3290A942EFC214</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>우리 다시 사랑할 수 있을까.E05.191211.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>한끼줍쇼.E155.191211.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:BAF58626E46AADDD71B2D51A0994B3EACC56E8ED</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>한끼줍쇼.E155.191211.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
