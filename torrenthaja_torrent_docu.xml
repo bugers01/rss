@@ -4,6 +4,12 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title> 2TV 생생정보.E1192.200129.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:58E990828CA2C76618219CCFF425B28A553E7E20</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> 2TV 생생정보.E1192.200129.720p-NEXT</showrss:showname>
+		</item>
+		<item>
 			<title> 인간극장.E4745.200129.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:5147B24418937D89A6010923D187FACD947C4F2B</link>
 			<showrss:showid></showrss:showid>
@@ -46,10 +52,10 @@
 			<showrss:showname> 무한리필 샐러드.E107.200129.1080p-ISSUE</showrss:showname>
 		</item>
 		<item>
-			<title> 생활의 발견.E645.200129.720p-NEXT.mp4</title>
+			<title>생활의 발견.E645.200129.720p-NEXT.mp4</title>
 			<link>magnet:?xt=urn:btih:E955611981A47D2CE72AE5585027B8C66681B66D</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname> 생활의 발견.E645.200129.720p-NEXT.mp4</showrss:showname>
+			<showrss:showname>생활의 발견.E645.200129.720p-NEXT.mp4</showrss:showname>
 		</item>
 		<item>
 			<title>나는 몸신이다.E264.200128.720p-NEXT</title>
@@ -86,12 +92,6 @@
 			<link>magnet:?xt=urn:btih:4A48AE3D95CFEC18BBA0B8E8F90F47FC32EDEBF7</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>2TV 생생정보.E1191.200128.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>휴먼 다큐 사람이 좋다.E348.200128.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:EC10B6696D661D66DBEF1DE0C9917BC57CF2A1E4</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>휴먼 다큐 사람이 좋다.E348.200128.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
