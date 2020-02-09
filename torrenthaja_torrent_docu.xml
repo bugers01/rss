@@ -4,10 +4,16 @@
 		<link></link>
 		<description></description>
 		<item>
-			<title> 그것이알고싶다 E1201 200208 720p.ISSUE.mp4</title>
+			<title> 그것이 알고 싶다.E1201.200208.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:8D9CEE1BE905B0937543C2A7BA2C4315ED4E8B9D</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> 그것이 알고 싶다.E1201.200208.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>그것이알고싶다 E1201 200208 720p.ISSUE.mp4</title>
 			<link>magnet:?xt=urn:btih:0371E6B4B2B5EFA46AF82C9F99AE4763FE47B47E</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname> 그것이알고싶다 E1201 200208 720p.ISSUE.mp4</showrss:showname>
+			<showrss:showname>그것이알고싶다 E1201 200208 720p.ISSUE.mp4</showrss:showname>
 		</item>
 		<item>
 			<title>걸어서 세계속으로.E638.200208.720p-NEXT</title>
@@ -86,12 +92,6 @@
 			<link>magnet:?xt=urn:btih:48A73B2D4D97B59B8BFA188C36ECFC27CDD33A8B</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>내 몸 사용 설명서.E288.200207.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>궁금한 이야기 Y.E482.200207.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:13335391116AD67B79FD4395043864AFB4C30B08</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>궁금한 이야기 Y.E482.200207.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
