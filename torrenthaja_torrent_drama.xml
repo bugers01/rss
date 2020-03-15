@@ -70,12 +70,6 @@
 			<showrss:showname>[토렌트산]신석연49.50화1080p-MreD</showrss:showname>
 		</item>
 		<item>
-			<title>킹덤시즌1Kingdom.2019.KOREAN.S01.2160p.NF.WEBRip.DDP5.1.x264-TroUHD[ra…</title>
-			<link>magnet:?xt=urn:btih:DBF7743061DA8A7FEA8CB1C07F68D9174AF7A329</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>킹덤시즌1Kingdom.2019.KOREAN.S01.2160p.NF.WEBRip.DDP5.1.x264-TroUHD[ra…</showrss:showname>
-		</item>
-		<item>
 			<title>하이에나.E07.200313.1080p-NEXT</title>
 			<link>magnet:?xt=urn:btih:F8DDA34D87DF444E9F076E0DBD6630AC59D5B15E</link>
 			<showrss:showid></showrss:showid>
@@ -92,6 +86,12 @@
 			<link>magnet:?xt=urn:btih:CFCE2923BAA7ED8F280E608FDDE1152D75107AAC</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>하이에나.S01E07.1080p.HDTV.x265-0utlaw</showrss:showname>
+		</item>
+		<item>
+			<title>이태원 클라쓰.E13.200313.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:6690CECD7BDA6D33C13F2A9B92B4C11FFDACF0BA</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>이태원 클라쓰.E13.200313.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
