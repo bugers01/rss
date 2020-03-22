@@ -58,12 +58,6 @@
 			<showrss:showname> 채널고정!チャンネルはそのまま!Stay.Tuned.S01.JAPANESE.1080p.NF.WEBRip.DDP2.0.x264…</showrss:showname>
 		</item>
 		<item>
-			<title> Kingdom(2019)Season1-2DuaAudio1080pWEBx265</title>
-			<link>magnet:?xt=urn:btih:A11502E892E05FE9F4B716793DF9F66CE65789ED</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname> Kingdom(2019)Season1-2DuaAudio1080pWEBx265</showrss:showname>
-		</item>
-		<item>
 			<title> Dracua(2020)Season1(S01)2160pSDR5.1x26510bitPhunPsyz</title>
 			<link>magnet:?xt=urn:btih:355AFF254E80FF08100523CB311AB28D44DF6DBD</link>
 			<showrss:showid></showrss:showid>
@@ -92,6 +86,12 @@
 			<link>magnet:?xt=urn:btih:409013C8BADFAE1A0B1B249572FB33591AD885F2</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>이태원 클라쓰.E16.200321.1080p-NEXT.mp4</showrss:showname>
+		</item>
+		<item>
+			<title>이태원 클라쓰 E16.END.200321.1080p.WEB-DL.x264.AAC-Deresisi</title>
+			<link>magnet:?xt=urn:btih:14137399288659008893A73CAF8D581760B89570</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>이태원 클라쓰 E16.END.200321.1080p.WEB-DL.x264.AAC-Deresisi</showrss:showname>
 		</item>
 	</channel>
 </rss>
