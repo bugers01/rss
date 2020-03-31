@@ -81,11 +81,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>영상앨범산.E723.200329.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>JTBC뉴스룸.200329.코로나생계지원'전국70%가구,약100만원'유력</title>
-			<link>magnet:?xt=urn:btih:FD0971513479F58820BCF2B8B8B2D1CA9137FE24</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>JTBC뉴스룸.200329.코로나생계지원'전국70%가구,약100만원'유력</showrss:showname>
-		</item>
 	</channel>
 </rss>
