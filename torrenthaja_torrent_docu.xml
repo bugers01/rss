@@ -4,6 +4,12 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title> {지지2TV생생정보.E1275.200525.720p-NEXT.mp4</title>
+			<link>magnet:?xt=urn:btih:31C1D57BF2C756B1DBC333C0C3F88B599850D877</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname> {지지2TV생생정보.E1275.200525.720p-NEXT.mp4</showrss:showname>
+		</item>
+		<item>
 			<title> 스위치.E46.200525.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:F8016CD970D56F0B4FE10D8AF8CED2B51F3E2DE0</link>
 			<showrss:showid></showrss:showid>
@@ -86,12 +92,6 @@
 			<link>magnet:?xt=urn:btih:A44E412BBE0A14B9D088EC7FCD9FA839FF19261B</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>SBS 스페셜.E594.200524.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>저널리즘 토크쇼 J.E91.200524.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:E16D31D104CFD9790D49F7A60FE8E813A279D59A</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>저널리즘 토크쇼 J.E91.200524.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
